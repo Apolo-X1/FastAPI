@@ -11,7 +11,7 @@
      ```
      test-env\\Scripts\\activate.bat
      ```
-
+<br><br>
 2. Instala las bibliotecas necesarias:
      ```
      pip install fastapi
@@ -21,7 +21,7 @@
      ```
 
 
-
+<br><br>
 ## Iniciar el servidor
 
 Para iniciar el servidor:
