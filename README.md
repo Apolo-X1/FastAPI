@@ -13,21 +13,21 @@
    ```
 
 2. Instala las bibliotecas necesarias:
-     ```
-     pip install fastapi
-     ```
-     ```
-     pip install uvicorn
-     ```
+   ```
+   pip install fastapi
+   ```
+   ```
+   pip install uvicorn
+   ```
 
 
-## Iniciar el servidor
+   ## Iniciar el servidor
 
-- Navega hasta la carpeta del proyecto utilizando el símbolo del sistema.
-- Ejecuta el siguiente comando:
-```
-uvicorn main:app --reload
-```
+   - Navega hasta la carpeta del proyecto utilizando el símbolo del sistema.
+   - Ejecuta el siguiente comando:
+   ```
+   uvicorn main:app --reload
+   ```
 
 
 Al seguir estos pasos, configurarás un entorno virtual, instalarás las bibliotecas necesarias (FastAPI y uvicorn) y comenzarás el servidor utilizando uvicorn.
