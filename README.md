@@ -25,9 +25,9 @@
 
 1. Navega hasta la carpeta del proyecto utilizando el símbolo del sistema.
 2. Ejecuta el siguiente comando:
-     ```
-     uvicorn main:app --reload
-     ```
+```
+uvicorn main:app --reload
+```
 
 
 Al seguir estos pasos, configurarás un entorno virtual, instalarás las bibliotecas necesarias (FastAPI y uvicorn) y comenzarás el servidor utilizando uvicorn.
