@@ -1,7 +1,5 @@
 # FastAPI-Python
 
-## Setup
-
 1. Crea un entorno virtual:
    - Abre el símbolo del sistema (CMD) en Windows.
    - Navega hasta la carpeta del proyecto.
@@ -11,7 +9,7 @@
      ```
    - Activa el entorno virtual:
      ```
-     test-env\Scripts\activate.bat
+     test-env\\Scripts\\activate.bat
      ```
 
 2. Instala las bibliotecas necesarias:
