@@ -21,10 +21,7 @@
      ```
 
 
-<br><br>
 ## Iniciar el servidor
-
-Para iniciar el servidor:
 
 1. Navega hasta la carpeta del proyecto utilizando el símbolo del sistema.
 2. Ejecuta el siguiente comando:
