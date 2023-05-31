@@ -23,8 +23,8 @@
 
 ## Iniciar el servidor
 
-1. Navega hasta la carpeta del proyecto utilizando el símbolo del sistema.
-2. Ejecuta el siguiente comando:
+- Navega hasta la carpeta del proyecto utilizando el símbolo del sistema.
+- Ejecuta el siguiente comando:
 ```
 uvicorn main:app --reload
 ```
