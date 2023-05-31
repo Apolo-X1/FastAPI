@@ -4,13 +4,13 @@
    - Abre el símbolo del sistema (CMD) en Windows.
    - Navega hasta la carpeta del proyecto.
    - Crea el entorno virtual:
-     ```
-     python -m venv test-env
-     ```
+   ```
+   python -m venv test-env
+   ```
    - Activa el entorno virtual:
-     ```
-     test-env\\Scripts\\activate.bat
-     ```
+   ```
+   test-env\\Scripts\\activate.bat
+   ```
 
 2. Instala las bibliotecas necesarias:
      ```
